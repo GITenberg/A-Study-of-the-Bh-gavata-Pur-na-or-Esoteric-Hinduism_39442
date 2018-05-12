@@ -1,0 +1,26 @@
+_repo: A-Study-of-the-Bh-gavata-Pur-na-or-Esoteric-Hinduism_39442
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39442-rst/images/bhagap_cover.jpg
+creator:
+  editor:
+    agent_name: Pürnendu Narayana Sinha
+    alias: Sinha, Purnendu Narayana
+    gutenberg_agent_id: '40021'
+    url: http://www.gutenberg.org/2009/agents/40021
+description: ''
+gutenberg_issued: '2012-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39442'
+  lccn: '41038395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Puranas. Bhagavatapurana. English'
+- !lcc 'BL'
+title: A Study of the Bhâgavata Purâna; or, Esoteric Hinduism
+url: http://www.gutenberg.org/ebooks/39442
